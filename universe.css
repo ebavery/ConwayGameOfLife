@@ -1,0 +1,44 @@
+/*
+Style Sheet for Universe
+The simple styling makes it easier for the user to read the screen.
+*/
+/* 
+Author: Elizabeth Avery
+Date:   05/04/2017
+*/
+
+body{
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+h2{
+    color: blue;
+}
+
+p{
+    font-size: 1em;
+}
+
+input[type="submit"], input[type="file"]{
+    margin-right: 10px;   
+    margin-bottom: 10px;
+}
+
+#upload{
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+#message{
+    color: red;
+}
+
+#result{
+    position: relative;
+    margin-top: 220px;
+}
+
+
+
